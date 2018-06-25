@@ -1,0 +1,9 @@
+# ignore compiled files
+*.pyc
+*.gitignore~
+
+# ignore ide files
+*.idea
+
+# ignore downloaded files
+download/
